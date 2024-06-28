@@ -1,6 +1,8 @@
 # Projeto artigo técnico gerado por I.A.s
 ![artigo](https://github.com/Reistaboada/prompts-for-article-generate-by-ia/assets/104366666/d031485f-06f8-4c4f-aeba-38bf3a5b146c)
 
+https://www.dio.me/articles/aposentadoria-ativa-como-aprender-programacao-do-zero
+
 <h1>Projeto artigo técnico gerado por I.A.s</h1> 
 O objetivo deste documento, além de desenvolver minhas habilidades, é demonstrar que a área da tecnologia é acessível a todos que desejam explorá-la.
 
